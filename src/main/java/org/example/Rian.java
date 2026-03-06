@@ -1,8 +1,7 @@
 package org.example;
 
-public class Maxsuel {
+public class Rian {
     public static void main(String[] args) {
-
-        System.out.println("Maxsuel");
+        System.out.println("Meu nome é rian");
     }
 }
